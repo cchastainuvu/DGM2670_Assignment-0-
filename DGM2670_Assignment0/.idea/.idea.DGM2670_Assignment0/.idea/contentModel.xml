@@ -6,16 +6,18 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="AIFollow.cs" t="Include" />
+          <e p="AiAgent.cs" t="Include" />
           <e p="CharacterMove.cs" t="Include" />
-          <e p="FloatBool.cs" t="Include" />
-          <e p="FloatData.cs" t="Include" />
-          <e p="FloatInput.cs" t="Include" />
           <e p="ForEachLoops.cs" t="Include" />
           <e p="MovePattern.cs" t="Include" />
           <e p="MovePatternNotGrounded.cs" t="Include" />
           <e p="ReadyGo.cs" t="Include" />
           <e p="RunCountdown.cs" t="Include" />
+          <e p="ScriptableObjects" t="Include">
+            <e p="FloatBool.cs" t="Include" />
+            <e p="FloatData.cs" t="Include" />
+            <e p="FloatInput.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="DGM2670_Assignment0.sln" t="IncludeFlat" />
