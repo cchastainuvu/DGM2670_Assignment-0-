@@ -14,6 +14,7 @@
           <e p="ForEachLoops.cs" t="Include" />
           <e p="MovePattern.cs" t="Include" />
           <e p="MovePatternNotGrounded.cs" t="Include" />
+          <e p="ReadyGo.cs" t="Include" />
           <e p="RunCountdown.cs" t="Include" />
         </e>
       </e>

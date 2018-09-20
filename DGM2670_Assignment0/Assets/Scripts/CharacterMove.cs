@@ -10,12 +10,17 @@ public class CharacterMove : MonoBehaviour {
 
     private void Start()
     {
-        controller = GetComponent<CharacterController>();
+        StartCoroutine(AllowMove());
     }
 
-    void Update()
+    private void Update()
     {
         Pattern.Invoke(controller, transform);
     }
 
+    IEnumerator AllowMove()
+    {
+        yield return new WaitForSeconds(3F);
+        controller = GetComponent<CharacterController>();   
+    }
 }
