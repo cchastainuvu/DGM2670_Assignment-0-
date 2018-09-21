@@ -3,14 +3,20 @@ using System.Collections.Generic;
 using System.Runtime.Remoting.Messaging;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.UI;
 
-//[CreateAssetMenu]
+[CreateAssetMenu]
 public class ForEachLoops : ScriptableObject
 {
 
 public FloatData RandomSpeed;
+    
 public List <FloatData> SpeedOptions;
 
+    private void Start()
+    {
+        
+    }
 
     private void OnEnable()
     {
