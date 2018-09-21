@@ -13,11 +13,6 @@ public FloatData RandomSpeed;
     
 public List <FloatData> SpeedOptions;
 
-    private void Start()
-    {
-        
-    }
-
     private void OnEnable()
     {
         var randomNum = Random.Range(0, SpeedOptions.Count - 1);

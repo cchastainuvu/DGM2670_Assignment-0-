@@ -22,7 +22,7 @@ public class AiAgent : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         //Changes destination upon entering the object's trigger.
-
+        
         CanChase = true;
 
     }

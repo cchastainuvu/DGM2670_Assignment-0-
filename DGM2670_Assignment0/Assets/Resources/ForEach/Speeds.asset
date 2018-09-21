@@ -9,7 +9,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 460b2f950b00df246abf66bbb49e40a4, type: 3}
-  m_Name: Respawns
+  m_Name: Speeds
   m_EditorClassIdentifier: 
-  RandomSpeed: {fileID: 0}
-  SpeedOptions: []
+  RandomSpeed: {fileID: 11400000, guid: fc5bad13a92af754f8803e6ef64a71ba, type: 2}
+  SpeedOptions:
+  - {fileID: 11400000, guid: c71fac2ebbbf1af4a9cbc47b3a10c330, type: 2}
+  - {fileID: 11400000, guid: fc5bad13a92af754f8803e6ef64a71ba, type: 2}
+  - {fileID: 11400000, guid: 8776cd42a67ccda47b61f094de4f9c18, type: 2}
