@@ -30,8 +30,8 @@
       <file leaf-file-name="AiFollow.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AiFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+            <state relative-caret-position="390">
+              <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
               <folding>
                 <marker date="1537501501698" expanded="true" signature="6:100" ph="..." />
                 <marker date="1537501501698" expanded="true" signature="102:323" ph="/* I think if I add more to this, I could make it into ... */" />
@@ -230,12 +230,12 @@
       <workItem from="1537416889409" duration="8932000" />
       <workItem from="1537475151065" duration="4553000" />
       <workItem from="1537484881202" duration="9331000" />
-      <workItem from="1537495166306" duration="6329000" />
+      <workItem from="1537495166306" duration="6999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35655000" />
+    <option name="totallyTimeSpent" value="36325000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -696,8 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AiFollow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        <state relative-caret-position="390">
+          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
           <folding>
             <marker date="1537501501698" expanded="true" signature="6:100" ph="..." />
             <marker date="1537501501698" expanded="true" signature="102:323" ph="/* I think if I add more to this, I could make it into ... */" />
