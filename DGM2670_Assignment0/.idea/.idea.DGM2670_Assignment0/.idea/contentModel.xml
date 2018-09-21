@@ -13,6 +13,7 @@
           <e p="ForEachLoops.cs" t="Include" />
           <e p="MovePattern.cs" t="Include" />
           <e p="MovePatternNotGrounded.cs" t="Include" />
+          <e p="PlayAudioRandom.cs" t="Include" />
           <e p="PlayerMoney.cs" t="Include" />
           <e p="ReadyGo.cs" t="Include" />
           <e p="RunCountdown.cs" t="Include" />
@@ -20,8 +21,8 @@
             <e p="FloatBool.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
+            <e p="TextData.cs" t="Include" />
           </e>
-          <e p="WinMessage.cs" t="Include" />
         </e>
       </e>
       <e p="DGM2670_Assignment0.sln" t="IncludeFlat" />
