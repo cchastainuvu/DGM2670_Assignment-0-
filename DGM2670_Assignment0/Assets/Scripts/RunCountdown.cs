@@ -27,10 +27,8 @@ public class RunCountdown : MonoBehaviour
     }
         
      //For Each loops are great for lists, like randomizing from a pool of FloatData.
-    
-    
-        //Could be used for a money counter.
-        
+     //While loops could be used for a money counter!
+//        
 //     IEnumerator Start()
 //     {
 //         label = GetComponent<Text>();

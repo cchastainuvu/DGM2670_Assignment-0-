@@ -13,7 +13,6 @@ public class AiAgent : MonoBehaviour
     public Transform Player;
     public bool CanChase;
     
-    
     private void Start()
     {
         agent = GetComponent<NavMeshAgent>();

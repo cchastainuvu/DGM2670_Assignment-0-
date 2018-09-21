@@ -8,9 +8,11 @@
         <e p="Scripts" t="Include">
           <e p="AiAgent.cs" t="Include" />
           <e p="CharacterMove.cs" t="Include" />
+          <e p="DestroySelf.cs" t="Include" />
           <e p="ForEachLoops.cs" t="Include" />
           <e p="MovePattern.cs" t="Include" />
           <e p="MovePatternNotGrounded.cs" t="Include" />
+          <e p="PlayerMoney.cs" t="Include" />
           <e p="ReadyGo.cs" t="Include" />
           <e p="RunCountdown.cs" t="Include" />
           <e p="ScriptableObjects" t="Include">

@@ -21,9 +21,10 @@ GameObject:
   - component: {fileID: 4051204489517682}
   - component: {fileID: 33645405804219820}
   - component: {fileID: 23818426657014180}
-  - component: {fileID: 136044780169642638}
+  - component: {fileID: 65578630315955006}
   - component: {fileID: 114497968834404316}
   - component: {fileID: 143688812649855976}
+  - component: {fileID: 114211982081360450}
   m_Layer: 0
   m_Name: Coin
   m_TagString: Coin
@@ -86,6 +87,29 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1576918225272424}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!65 &65578630315955006
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1576918225272424}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0000001, y: 10, z: 1.0000002}
+  m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
+--- !u!114 &114211982081360450
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1576918225272424}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba00d8f25a73a74f9e77d97ad0578a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114497968834404316
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -98,19 +122,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Pattern: {fileID: 11400000, guid: 5999e9cae787e1240a4313b8e4e7fc92, type: 2}
---- !u!136 &136044780169642638
-CapsuleCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1576918225272424}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5000001
-  m_Height: 2
-  m_Direction: 1
-  m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
 --- !u!143 &143688812649855976
 CharacterController:
   m_ObjectHideFlags: 1
@@ -122,7 +133,7 @@ CharacterController:
   m_Enabled: 1
   serializedVersion: 2
   m_Height: 2
-  m_Radius: 0.5000001
+  m_Radius: 0.17
   m_SlopeLimit: 45
   m_StepOffset: 0.3
   m_SkinWidth: 0.08
