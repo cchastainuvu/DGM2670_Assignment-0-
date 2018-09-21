@@ -30,18 +30,19 @@
       <file leaf-file-name="AiFollow.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AiFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+            <state relative-caret-position="120">
+              <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
               <folding>
-                <marker date="1537499733588" expanded="true" signature="6:78" ph="..." />
-                <marker date="1537499733588" expanded="true" signature="180:1295" ph="{...}" />
-                <marker date="1537499733588" expanded="true" signature="294:381" ph="{...}" />
-                <marker date="1537499733588" expanded="true" signature="430:929" ph="{...}" />
-                <marker date="1537499733588" expanded="true" signature="491:586" ph="{...}" />
-                <marker date="1537499733588" expanded="true" signature="677:772" ph="{...}" />
-                <marker date="1537499733588" expanded="true" signature="824:918" ph="{...}" />
-                <marker date="1537499733588" expanded="true" signature="965:1292" ph="{...}" />
-                <marker date="1537499733588" expanded="true" signature="992:1286" ph="{...}" />
+                <marker date="1537501501698" expanded="true" signature="6:100" ph="..." />
+                <marker date="1537501501698" expanded="true" signature="102:323" ph="/* I think if I add more to this, I could make it into ... */" />
+                <marker date="1537501501698" expanded="true" signature="403:1517" ph="{...}" />
+                <marker date="1537501501698" expanded="true" signature="516:603" ph="{...}" />
+                <marker date="1537501501698" expanded="true" signature="652:1151" ph="{...}" />
+                <marker date="1537501501698" expanded="true" signature="713:808" ph="{...}" />
+                <marker date="1537501501698" expanded="true" signature="899:994" ph="{...}" />
+                <marker date="1537501501698" expanded="true" signature="1046:1140" ph="{...}" />
+                <marker date="1537501501698" expanded="true" signature="1187:1514" ph="{...}" />
+                <marker date="1537501501698" expanded="true" signature="1214:1508" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -229,12 +230,12 @@
       <workItem from="1537416889409" duration="8932000" />
       <workItem from="1537475151065" duration="4553000" />
       <workItem from="1537484881202" duration="9331000" />
-      <workItem from="1537495166306" duration="4812000" />
+      <workItem from="1537495166306" duration="6329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34138000" />
+    <option name="totallyTimeSpent" value="35655000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -695,18 +696,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AiFollow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        <state relative-caret-position="120">
+          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
           <folding>
-            <marker date="1537499733588" expanded="true" signature="6:78" ph="..." />
-            <marker date="1537499733588" expanded="true" signature="180:1295" ph="{...}" />
-            <marker date="1537499733588" expanded="true" signature="294:381" ph="{...}" />
-            <marker date="1537499733588" expanded="true" signature="430:929" ph="{...}" />
-            <marker date="1537499733588" expanded="true" signature="491:586" ph="{...}" />
-            <marker date="1537499733588" expanded="true" signature="677:772" ph="{...}" />
-            <marker date="1537499733588" expanded="true" signature="824:918" ph="{...}" />
-            <marker date="1537499733588" expanded="true" signature="965:1292" ph="{...}" />
-            <marker date="1537499733588" expanded="true" signature="992:1286" ph="{...}" />
+            <marker date="1537501501698" expanded="true" signature="6:100" ph="..." />
+            <marker date="1537501501698" expanded="true" signature="102:323" ph="/* I think if I add more to this, I could make it into ... */" />
+            <marker date="1537501501698" expanded="true" signature="403:1517" ph="{...}" />
+            <marker date="1537501501698" expanded="true" signature="516:603" ph="{...}" />
+            <marker date="1537501501698" expanded="true" signature="652:1151" ph="{...}" />
+            <marker date="1537501501698" expanded="true" signature="713:808" ph="{...}" />
+            <marker date="1537501501698" expanded="true" signature="899:994" ph="{...}" />
+            <marker date="1537501501698" expanded="true" signature="1046:1140" ph="{...}" />
+            <marker date="1537501501698" expanded="true" signature="1187:1514" ph="{...}" />
+            <marker date="1537501501698" expanded="true" signature="1214:1508" ph="{...}" />
           </folding>
         </state>
       </provider>

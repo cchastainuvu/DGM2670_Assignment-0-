@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+/* I think if I add more to this, I could make it into
+ something for the Asset Store. I created one of my AI
+ like this in my game for 1600 and I really liked how
+ versatile it could be. I think others may like it too.*/
+
 [RequireComponent(typeof(NavMeshAgent))]
 public class AiFollow : MonoBehaviour
 {
@@ -10,7 +15,6 @@ public class AiFollow : MonoBehaviour
     public Transform Player;
 
     public string Who;
-
 
     private void Start()
     {
