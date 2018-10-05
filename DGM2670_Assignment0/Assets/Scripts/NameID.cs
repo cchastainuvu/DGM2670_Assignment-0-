@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayAudioRandom : MonoBehaviour 
-{
-
+[CreateAssetMenu]
+public class NameID : ScriptableObject {
 
     
 }

@@ -9,24 +9,24 @@ using UnityEngine.UI;
 public class ForEachLoops : ScriptableObject
 {
 
-public FloatData RandomSpeed;
+public StringData RandomMessage;
     
-public List <FloatData> SpeedOptions;
+public List <StringData> MessageOptions;
 
     private void OnEnable()
     {
-        var randomNum = Random.Range(0, SpeedOptions.Count - 1);
+        var randomNum = Random.Range(0, MessageOptions.Count - 1);
         //0 , Size of the Collection, so however many have been set.
         //Minus 1, because Unity starts counting at zero.
 
-        for (int i = 0; i < SpeedOptions.Count-1; i++)
+        for (var i = 0; i < MessageOptions.Count-1; i++)
         {
             //Checks to see if i is zero, then checks to see if i is less than count, then add to i.
             // "i" loops through every single number and compares, then takes the speed and sets it.
 
             if (i == randomNum)
             {
-                RandomSpeed = SpeedOptions[i];
+                RandomMessage = MessageOptions[i];
             }
             
         }

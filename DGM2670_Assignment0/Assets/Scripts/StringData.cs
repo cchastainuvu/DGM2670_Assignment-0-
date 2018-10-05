@@ -4,13 +4,12 @@ using UnityEngine;
 using UnityEngine.UI;
 
 [CreateAssetMenu]
-public class TextData : ScriptableObject
-{ 
-    public Text text;
+public class StringData : ScriptableObject
+{
+    public string Message;
 
-    public virtual Text Text
+    private string DisplayMessage
     {
-        get { return text; }
+        get { return Message;}
     }
-
 }
