@@ -8,7 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c5a1bc4d78db2e848b00ab8921f92832, type: 3}
-  m_Name: Howdy
+  m_Script: {fileID: 11500000, guid: 68e74500f4167c247a564845e62b584d, type: 3}
+  m_Name: Hello
   m_EditorClassIdentifier: 
-  text: {fileID: 114641708302203014, guid: 6a59f655d2918da4d83084f13d3683aa, type: 2}
+  Message: Hello
